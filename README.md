@@ -1,12 +1,10 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  
+I'm Sammy, I also go by Sam and I'm an iOS Developer with a passion for design and the future of mobile development. I currently looking for new opportunities.  
 <!--<h3 align="center">
 ![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
 </h3> -->
+
 ---
-## Connect with me
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/sammy-alvarado)
-[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://medium.com/@isammyalvarado)
-<br />
 
 <!--
 **SammyAlvarado/sammyalvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- [<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" />](https://1000hires.com/candidates/466) -->
----
+
 ## Outlooks 📔
 <details>
   <summary><b>:telescope: 2021 goal</b></summary>
@@ -50,3 +48,8 @@ Here are some ideas to get you started:
   <br> </b>
   Career changes happen every day. I, like many people, had to make a difficult choice and take a leap of faith. I discovered I no longer wanted to continue with the career path I had worked hard for so many years. By the end of the year, I will choose my new journey into tech.
 </details>
+
+## Connect with me
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/sammy-alvarado)
+[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://medium.com/@isammyalvarado)
+<br />
