@@ -18,7 +18,7 @@ an iOS Developer with a passion for design and the future of mobile development.
 
 ## Insight 🖥
 When I am not working on new projects I love to learn new skills not just related to iOS development. Here are some fun facts and things I love doing outside the office. <br>
-<img src="https://i.imgur.com/kdKhgx6.gif" width="350px" align="right"> 
+<img src="https://i.imgur.com/kdKhgx6.gif" width="250px" align="right"> 
 
 - 🔭 I’m currently working on: My dream project coming soon to Apple Store stay tone!
 - 🌱 I’m currently learning: SwiftUI
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:Outlooks-->
  
 ## Outlooks 📔
-<img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="300"/>
+<img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="200"/>
 <details>
   <summary><b>:telescope: 2021 goal</b></summary>
   Good-bye 2020, Hello 2021 success!<br>
