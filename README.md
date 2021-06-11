@@ -17,16 +17,16 @@ an iOS Developer with a passion for design and the future of mobile development.
 <!--START_SECTION:Insight-->
 
 ## Insight 🖥
-When I am not working on new projects I love to learn new skills not just related to iOS development. Here are some fun facts and things I love doing outside the office. <br>
-<img src="https://i.imgur.com/kdKhgx6.gif" width="250px" align="right"> 
+When I am not working on new projects, I love to learn new skills and not just related to iOS development. <br>
+<img src="https://i.imgur.com/kdKhgx6.gif" width="200px" align="right"> 
 
-- 🔭 I’m currently working on: My dream project coming soon to Apple Store stay tone!
+- 🔭 I’m currently working on: My dream project coming soon to Apple Store stay tune!
 - 🌱 I’m currently learning: SwiftUI
 - 👯 I’m looking to collaborate on: AR and Game Development👾
-- 💬 Ask me about: Anyting 
+- 💬 Ask me about: Anything 🌐
 - 📫 How to reach me: `isammyalvarado at G ✉️ dot com`
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love Motorcyels and can't stop the ride! 
+- ⚡ Fun fact: I love Motorcycles 🏍! 
  
   <!--END_SECTION:insight-->
 
@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:Outlooks-->
  
 ## Outlooks 📔
-<img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="200"/>
+<img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="170"/>
 <details>
   <summary><b>:telescope: 2021 goal</b></summary>
   Good-bye 2020, Hello 2021 success!<br>
-  I took the jump in 2020 to change my life and have not looked back. This year is to finish a lot of work!  
+  I took the jump in 2020 to change my life and I have not looked back. This year's goal is to finish a lot of work!  
 
   1. Finish my Lambda Program.
   2. Complete at least two fully functional Apps and publish them to the App store.
@@ -61,15 +61,15 @@ Here are some ideas to get you started:
 <details>
   <summary><b>😷 2020 goal</b></summary>
   
-  Life sometimes gives us berries🍓 instead of lemons🍋.<br>
-  2020 was not the year we all wanted. Having to adapt to a world epidemic was not easy. This year, I chose to become an iOS Developer! Mobile development is not as easy as the commercial may have lead to you believe. I join Lambda's iOS Development program to join a community of like-minded developers who can help me find my path into a career path. So far I have not looked back and asked why 2021 hear we come....
+  Life sometimes gives us lemons🍋.<br>
+  2020 was not the year we all wanted. Having to adapt to a world epidemic was not easy. This year, I chose to become an iOS Developer! Mobile development is not as easy as the commercials may have lead to you believe. I joined Lambda's iOS Development program to be part of a community of like-minded developers who can help me find my path. So far I have not looked back and the journey continues. 2021 here I come....
 </details>
 
 <details>
   <summary><b>🧑🏻‍💻 2019 goal</b></summary>
  
-  I took a big step in my life.<br>
-  Career changes happen every day. I, like many people, had to make a difficult choice and take a leap of faith. I discovered I no longer wanted to continue with the career path I had worked hard for so many years. By the end of the year, I will choose my new journey into tech.
+  Meeting life at a crossroad ⤲.<br>
+  Career changes happen every day. I, like many people, had to make a difficult choice and take a leap of faith. I discovered I no longer wanted to continue with the career path I had worked hard for so many years. By the end of the year, I chose my new journey into tech.
 </details>
 
 <!--END_SECTION:Outlooks-->
