@@ -78,7 +78,7 @@ Here are some ideas to get you started:
  
 ## Connect with me ☕️
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/sammy-alvarado)
-[<img align="left" alt="Dev.to" width="80" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" />](https://medium.com/@isammyalvarado)
+[<img align="left" alt="Dev.to" width="80" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" />](https://medium.com/@isammyalvarado)
 <br />
 <!-- [<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" />](https://1000hires.com/candidates/466) -->
 <!--END_SECTION:Connect with me-->
