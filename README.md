@@ -20,7 +20,7 @@ an iOS Developer with a passion for design and the future of mobile development.
 When I am not working on new projects, I love to learn new skills and not just related to iOS development. <br>
 <img src="https://i.imgur.com/kdKhgx6.gif" width="200px" align="right"> 
 
-- 🔭 I’m currently working on: My dream project coming soon to Apple Store stay tune!
+- 🔭 I’m currently working on: My dream project coming soon to App Store stay tune!
 - 🌱 I’m currently learning: SwiftUI
 - 👯 I’m looking to collaborate on: AR and Game Development👾
 - 💬 Ask me about: Anything 🌐
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
  
 ## Connect with me ☕️
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/sammy-alvarado)
-[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://medium.com/@isammyalvarado)
+[<img align="left" alt="Dev.to" width="80" src="https://gist.github.com/benhalpern/eff81b17359acafd17849146549b9291#file-dev-icon-svg" />](https://medium.com/@isammyalvarado)
 <br />
 <!-- [<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" />](https://1000hires.com/candidates/466) -->
 <!--END_SECTION:Connect with me-->
