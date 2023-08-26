@@ -9,8 +9,12 @@
   <!--START_SECTION:Bio-->
  
 ### Hi there, I'm Sam, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60px">   
-an iOS Developer with a passion for design and the future of mobile development. I recently graduated from Lambdas iOS program and am currently looking for new opportunities. If you'll like to work on a project together, reach out, and let's see what we can do.
+As an adept Full Stack Engineer, I have effectively implemented a myriad of web and iOS applications using ReactJS, SwiftUI, UIKit, Swift and advanced JavaScript. Leveraging my expertise in Presently, I am actively engrossed in working with the .NET Framework and employing C# to design and implement endpoints, controllers, interfaces, and services, thereby fortifying the stability and reliability of projects.
 
+As proud United States Marine Veteran, I have come to appreciate my life's passions. Over the course of my professional career I have learned to take on challenges and always look forward to new opportunities. I invite you to join me in my journey with other developers on LinkedIn if you're ever yearning for coffee over Zoom or in person. Please reach out and connect.
+
+Profoundly,
+Sammy
 <!--END_SECTION:Bio-->
 
 ---
@@ -20,8 +24,8 @@ an iOS Developer with a passion for design and the future of mobile development.
 When I am not working on new projects, I love to learn new skills and not just related to iOS development. <br>
 <img src="https://i.imgur.com/kdKhgx6.gif" width="200px" align="right"> 
 
-- 🔭 I’m currently working on: My dream project coming soon to App Store stay tune!
-- 🌱 I’m currently learning: SwiftUI
+- 🔭 I’m currently working on: My dream project coming soon so stay tune!
+- 🌱 I’m currently learning: Indie Game Development
 - 👯 I’m looking to collaborate on: AR and Game Development👾
 - 💬 Ask me about: Anything 🌐
 - 📫 How to reach me: `isammyalvarado at G ✉️ dot com`
